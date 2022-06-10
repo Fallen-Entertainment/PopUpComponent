@@ -1,3 +1,10 @@
+// PopUpComponent
+// By Fallen
+// Intended use create simple messages in game to guide your player
+// Example "Press E to get inside the mine cart"
+// PopUpObject was intended to be a text mesh object
+// PopUp Occurs when player is in range
+
 using Cysharp.Threading.Tasks;
 using LiteNetLibManager;
 using System.Collections.Generic;
